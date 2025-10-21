@@ -24,17 +24,17 @@ Il utilise un pipeline simple mais efficace combinant **TF-IDF** et **Régressio
 - `pandas`, `scikit-learn`, `matplotlib`, `nltk`, `kagglehub`
 
 ## 📂 Structure du dépôt
-```bash
-imdb-sentiment-classification/
-│
-├── IMDB_Sentiment_Classification.ipynb # Notebook principal
-├── requirements.txt # Librairies Python nécessaires
-└── README.md # Documentation du projet
+   ```bash
+   imdb-sentiment-classification/
+   │
+   ├── IMDB_Sentiment_Classification.ipynb # Notebook principal
+   ├── requirements.txt # Librairies Python nécessaires
+   └── README.md # Documentation du projet
 
 ## 📌 Instructions pour exécuter
 1. Cloner le dépôt
    ```bash
-   git clone <URL_DU_DEPOT>
+   git clone https://github.com/NicolasStucky0/imdb-sentiment-classification.git
 
 2. Installer les dépendances
 pip install -r requirements.txt
