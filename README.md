@@ -24,6 +24,7 @@ Il utilise un pipeline simple mais efficace combinant **TF-IDF** et **Régressio
 - `pandas`, `scikit-learn`, `matplotlib`, `nltk`, `kagglehub`
 
 ## 📂 Structure du dépôt
+```bash
 imdb-sentiment-classification/
 │
 ├── IMDB_Sentiment_Classification.ipynb # Notebook principal
