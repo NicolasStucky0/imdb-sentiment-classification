@@ -30,6 +30,7 @@ Il utilise un pipeline simple mais efficace combinant **TF-IDF** et **Régressio
    ├── IMDB_Sentiment_Classification.ipynb # Notebook principal
    ├── requirements.txt # Librairies Python nécessaires
    └── README.md # Documentation du projet
+   ```
 
 ## 📌 Instructions pour exécuter
 1. Cloner le dépôt
